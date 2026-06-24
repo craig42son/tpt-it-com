@@ -1,0 +1,39 @@
+.header-banner {
+  background: linear-gradient(135deg, #1a365d 0%, #2a4365 100%);
+  color: white;
+  padding: 30px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 20px rgba(26, 54, 93, 0.15);
+}
+
+.header-brand h1 {
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 0.5px;
+}
+
+.header-brand p {
+  margin: 5px 0 0 0;
+  font-size: 14px;
+  color: #90cdf4;
+}
+
+.total-widget {
+  text-align: right;
+}
+
+.total-widget h2 {
+  margin: 0;
+  font-size: 32px;
+  color: #48bb78;
+}
+
+.total-widget span {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #cbd5e0;
+}
