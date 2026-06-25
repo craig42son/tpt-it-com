@@ -17,6 +17,12 @@ Whether you are handling dynamic startup operational costs, managing remote IT i
 * **Interactive Digital Receipts**: Generate clean, standalone digital summaries of records for reporting.
 * **Component-Driven Architecture**: Fully modular design structure for high-performance updates.
 * **Fully Responsive UI**: Seamlessly transitions across desktop, tablet, and mobile browsers.
+* **Name**: Craig
+* ** Website**: [tpt it com](https://www.tpt.it.com)
+* ** Email**: craig42son@outlook.com
+
+
+
 
 ---
 
